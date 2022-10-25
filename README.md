@@ -7,16 +7,6 @@ One partner should [fork this repo](https://docs.github.com/en/free-pro-team@lat
 ## Instructions
 Work with your partner to implement the functions under the "Problems" section below. Write your solution in the `app.js` file. For each exercise, one partner should be the Navigator and the other should be the Driver.
 
-1. Navigator(s) should describe what the function should do. 
-   * Describe, in plain English, what the function should take in as a parameter and what it should console.log or return.
-2. Driver writes out the test cases.
-   * For each problem, invoke the function with a parameter and describe the expected results.
-   * We've suggested some test cases for the problems, but you should come up with some of your own, too!
-3. Navigator(s) explains how to implement the function while Driver writes the code.
-4. Driver tests the code by running the applcation using `node app.js` in the terminal.
-   * Did the code work? Did it print out what youw expected it you print out? 
-   * Do some refactoring if needed, or add additional test cases if desired.
-
 Switch roles for each of the problems below. Once you finish this problem, the driver should commit and push the code up to Github. Verify that your changes are in the remote repo, then have your group members pull those changes down. 
 
 ## How do I know if the code is working?
